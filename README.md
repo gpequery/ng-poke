@@ -1,1 +1,3 @@
 # ng-poke
+
+npm start
