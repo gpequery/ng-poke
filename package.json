@@ -6,7 +6,7 @@
     "private": true,
     "scripts": {
         "start": "npm install && tsc && node build/index.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "jest"
     },
     "repository": {
         "type": "git",
@@ -20,5 +20,10 @@
     "homepage": "https://github.com/gpequery/ng-poke#readme",
     "dependencies": {
         "typescript": "^3.4.5"
+    },
+    "devDependencies": {
+        "@types/jest": "^24.0.13",
+        "jest": "^24.8.0",
+        "ts-jest": "^24.0.2"
     }
 }
