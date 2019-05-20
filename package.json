@@ -1,0 +1,21 @@
+{
+    "name": "ng-poke",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+        "start": "nodejs index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gpequery/ng-poke.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gpequery/ng-poke/issues"
+    },
+    "homepage": "https://github.com/gpequery/ng-poke#readme"
+}
