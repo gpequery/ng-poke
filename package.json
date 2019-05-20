@@ -2,7 +2,7 @@
     "name": "ng-poke",
     "version": "1.0.0",
     "description": "",
-    "main": "src/index.ts",
+    "main": "build/index.ts",
     "private": true,
     "scripts": {
         "start": "npm install && tsc && node build/index.js",
