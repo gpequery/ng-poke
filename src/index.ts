@@ -1,7 +1,7 @@
 import {Pokemon} from "./Classes";
 
-let greg: Pokemon = new Pokemon('Greg');
+let greg: Pokemon = new Pokemon('Greg', 5);
+let juan: Pokemon = new Pokemon('Juan', 4);
 
-console.log(greg.name);
-greg.name = 'Yo';
-console.log(greg.name);
+console.log(greg);
+console.log(juan);
