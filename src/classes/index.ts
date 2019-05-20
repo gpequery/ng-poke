@@ -1,3 +1,4 @@
 import {Pokemon} from './Pokemon';
+import {Attack} from './Attack';
 
-export { Pokemon };
+export { Pokemon, Attack };
